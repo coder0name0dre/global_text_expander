@@ -119,3 +119,23 @@ Expands to(**e.g.**):
 | ;date           | Current date (dynamic) |
 
 ---
+
+## How To Exit
+
+- Press **Esc**
+- Or stop the script in Terminal using **Ctrl + C**
+
+---
+
+## Ethical & Safety
+
+This script:
+- Does not log keystokes
+- Only reacts to predefined shortcuts
+- Does not store or transmit input
+
+Always use keyboard hooks responsibly
+Never capture passwords or sensitive personal data.
+
+---
+
