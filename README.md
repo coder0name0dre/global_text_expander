@@ -134,7 +134,8 @@ This script:
 - Only reacts to predefined shortcuts
 - Does not store or transmit input
 
-Always use keyboard hooks responsibly
+Always use keyboard hooks responsibly.
+
 Never capture passwords or sensitive personal data.
 
 ---
