@@ -62,7 +62,7 @@ Without this permission, the script will not receive key events.
 
 ---
 
-## Usage
+## How To Run
 
 1. Clone the repo:
 ```
@@ -83,3 +83,39 @@ Text Expander running...
 Try: ;addr, ;sig, ;email, ;date (then SPACE)
 Press ESC to quit.
 ```
+
+---
+
+## How To Use
+
+1. Open any application (Notes, browser, Mail, VS Code, etc.)
+2. Type one of the shortcuts
+3. Press Space
+4. The shortcut is replaced automatically
+
+### Example
+
+Typing:
+
+```
+;date␣
+```
+
+Expands to(**e.g.**):
+
+```
+15-12-2025
+```
+
+---
+
+## Default Shortcuts
+
+| Shortcut        | Description |
+|-----------------|-------------|
+| ;addr           | Example address |
+| ;sig            | Email signature |
+| ;email          | Email address |
+| ;date           | Current date (dynamic) |
+
+---
