@@ -62,3 +62,24 @@ Without this permission, the script will not receive key events.
 
 ---
 
+## Usage
+
+1. Clone the repo:
+```
+git clone https://github.com/coder0name0dre/global_text_expander.git
+cd global_text_expander
+```
+
+2. Run it:
+
+```
+python text_expander.py
+```
+
+You should see:
+
+`
+Text Expander running...
+Try: ;addr, ;sig, ;email, ;date (then SPACE)
+Press ESC to quit.
+`
