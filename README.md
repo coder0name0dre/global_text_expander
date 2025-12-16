@@ -140,3 +140,6 @@ Never capture passwords or sensitive personal data.
 
 ---
 
+## License
+
+This project is licensed under the [MIT License](https://github.com/coder0name0dre/global_text_expander/blob/main/LICENSE).
