@@ -78,8 +78,8 @@ python text_expander.py
 
 You should see:
 
-`
+```
 Text Expander running...
 Try: ;addr, ;sig, ;email, ;date (then SPACE)
 Press ESC to quit.
-`
+```
