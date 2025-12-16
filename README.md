@@ -56,7 +56,7 @@ You **must** enable permission:
 2. Go to **Privacy & Security**
 3. Click **Input Monitoring**
 4. Enable:
-  - **Terminal** (or the app running Python)
+    - **Terminal** (or the app running Python)
 5. Restart Terminal
 Without this permission, the script will not receive key events.
 
