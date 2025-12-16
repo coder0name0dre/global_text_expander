@@ -28,3 +28,18 @@ Keyboard hooks allow the script to:
 - Simulate typing replacement text
 
 This project cannot work without keyboard hooks.
+
+---
+
+
+## Requirements
+
+- macOS
+- Python 3.9+
+- `pynput` library
+
+### Install Dependencies:
+
+```
+pip install pynput
+```
